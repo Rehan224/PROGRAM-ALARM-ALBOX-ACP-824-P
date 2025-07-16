@@ -71,4 +71,43 @@
   - Isi durasi Exit Delay (3 digit) dalam satuan detik
   - Tekan # (untuk simpan program)
 
-- 
+- Cara Menambahkan Nomor HP
+  - Masuk Program
+  - [23]
+  - Isi Nomor HP
+  - Tekan # (untuk simpan program)
+    ```
+    Note:
+    > Untuk Menambahkan nomor HP bisa sampai 4 nomor HP
+    > Ganti code [23] jadi [24], [25], [26]
+    > Jadi nanti urutannya,
+    [23] untuk nomor pertama
+    [24] untuk nomor kedua
+    [25] untuk nomor ketiga
+    [26] untuk nomor keempat
+    ```
+---
+- Pengetesan Alarm
+  - Cara Mengaktifkan Alarm
+    - Masukkan User_Code
+    - Tekan ARM
+  - Cara Mematikan alarm
+    - Masukkan User_Code
+    - Tekan DISARM
+  - Cara Mematikan Sirine
+    - Masukkan User_Code
+    - Tekan DISARM
+  - Cara Hapus Ter-memori
+    - Masukkan User_Code
+    - Tekan DISARM
+---
+```markdown
+KETERANGAN:
+A-01
+> A = sudah terjadi alarm, atau ter-memori
+> 01 = Urutan Zona
+
+F-01
+> F = detektor terbuka
+> 01 = Urutan Zona
+```
