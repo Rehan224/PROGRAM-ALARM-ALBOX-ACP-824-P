@@ -28,7 +28,7 @@
     [06] untuk user keempat
     ```
     
-- Cara Mengatur Waktu yg Tampil
+- Cara Mengatur Waktu yg Tampil di Keypad
   - Masuk Program
   - [30]
   - Isi Tahun (2 digit terakhir), Bulan, Tanggal, Jam, Menit
